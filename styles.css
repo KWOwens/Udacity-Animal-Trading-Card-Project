@@ -1,0 +1,75 @@
+.the-star {
+  width: fit-content;
+  font-weight: bold;
+  color: brown;  
+  font-family: Cursive;
+  border: 5px groove brown;
+  margin-top: 6px;
+  margin-left: 7px; 
+  padding: 1px 6px 2px
+}
+  
+img {
+  width: 300px;
+  border: 3px inset brown;
+  margin-right: 8px;
+  margin-bottom: 1px;
+  margin-left: 8px;
+}
+
+.didyouknow {
+  font-style: italic;
+  font-size: 13px;
+  font-family: Serif;
+  width: 300px;
+}
+
+.didyouknow span {
+  font-weight: bold;
+}
+
+.g-list {
+  font-size: 13px;
+  font-family: Serif;
+  list-style: none;
+  padding-left: 0px;
+  }
+
+.bio-cat span {
+  font-weight: bold;
+}
+
+.added-faq {
+  font-weight: bold;
+}
+
+.about {
+text-wrap: balance;
+font-size: 13px;
+font-family: Serif;
+width: 300px;
+}
+
+.about span {
+  font-weight: bold;
+}
+
+.outer-base {
+border: 7px solid brown;
+margin: 2px;
+width: 320px;
+padding: 0.5em;
+background-color: tan;
+box-shadow: 6px 6px 3px 3px rgba(134, 77, 3, 0.463);
+}
+
+.info-section {
+width: 295px;
+border: 2px solid brown;
+margin-right: 1px;
+margin-left: 7px;
+padding-top: 1px; 
+padding-right: 1px;
+padding-bottom: 1px;
+padding-left: 6px;
+}
